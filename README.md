@@ -5,7 +5,27 @@ I care about how things actually work — from memory efficiency to input latenc
 
 ---
 
-## 🧠 Featured Projects
+### **Web Chat System** [SSE, Portable History, Group Chat, Incremental Updates & Session Control](https://github.com/ChungLimLee/SoChat)
+
+**Overview:**
+A secure, real-time web chat system built from scratch using PHP, JavaScript, HTML, and MySQL. Designed to demonstrate advanced features that typical frameworks don’t provide by default.
+
+**Key Features:**
+
+* **Real-time communication:** Uses Server-Sent Events (SSE) for live messaging.
+* **User-specific history:** All chat histories are portable across devices.
+* **Incremental updates:** Only new messages are sent after initial load to reduce data transfer.
+* **Single-session enforcement:** Automatically disconnects older connections when a user logs in elsewhere.
+* **Group chat support:** Users can create and join group chats.
+* **Security-focused:** Secure session management, password hashing (client + server), and SQL injection protection.
+
+**Highlights:**
+
+* Fully functional system within ~50 KB of code.
+* Minimal dependencies; no frameworks used to maintain fine-grained control.
+* Live-tested over 2 years on multiple devices.
+
+---
 
 ### 🎮 [SO Othello – Unlimited Endgame Puzzle](https://github.com/ChungLimLee/soOthello)
 A fully interactive Othello app in JS with unlimited endgame puzzles, study mode, puzzle sharing via link, and perfect-play solving.
