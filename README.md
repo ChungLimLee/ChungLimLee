@@ -27,6 +27,23 @@ A secure, real-time web chat system built from scratch using PHP, JavaScript, HT
 
 ---
 
+## 🚀 [SoGloper 0.8.0-alpha](https://github.com/ChungLimLee/SoGloper)
+
+A **unified React library** for state, logic, and dataflow — all in one, with minimal boilerplate.
+
+**Why it’s unique:**
+
+* **Dual Modes:** Relax (simple) & Control (advanced, IDE-friendly)
+* **Dynamic State Creation:** `createGloper` for programmatic, flexible state
+* **Uniform Namespaces** with conflict detection
+* **Built-in Persistence:** IndexedDB & LocalStorage
+* **Lazy Loading:** initialize heavy states only on first use
+* **Auto Immutable Updates** & React 18+ concurrency support
+
+Build scalable, maintainable React apps faster — without juggling multiple libraries.
+
+---
+
 ### 🎮 [SO Othello – Unlimited Endgame Puzzle](https://github.com/ChungLimLee/soOthello)
 A fully interactive Othello app in JS with unlimited endgame puzzles, study mode, puzzle sharing via link, and perfect-play solving.
 
