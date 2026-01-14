@@ -14,7 +14,7 @@ A secure, real-time web chat system built from scratch using PHP, JavaScript, HT
 
 * **Real-time communication:** Uses Server-Sent Events (SSE) for live messaging.
 * **User-specific history:** All chat histories are portable across devices.
-* **Incremental updates:** Only new messages are sent after initial load to reduce data transfer.
+* **Incremental updates:** After the initial load, only new messages are sent from the server to minimize data transfer.
 * **Single-session enforcement:** Automatically disconnects older connections when a user logs in elsewhere.
 * **Group chat support:** Users can create and join group chats.
 * **Security-focused:** Secure session management, password hashing (client + server), and SQL injection protection.
