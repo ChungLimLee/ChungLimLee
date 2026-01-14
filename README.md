@@ -27,7 +27,7 @@ A secure, real-time web chat system built from scratch using PHP, JavaScript, HT
 
 ---
 
-## 🚀 [SoGloper 0.8.0-alpha](https://github.com/ChungLimLee/SoGloper)
+## 🚀 [SoGloper 0.8.0-alpha](https://github.com/ChungLimLee/so-gloper-react)
 
 A **unified React library** for state, logic, and dataflow — all in one, with minimal boilerplate.
 
