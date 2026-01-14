@@ -5,7 +5,7 @@ I care about how things actually work — from memory efficiency to input latenc
 
 ---
 
-### **Web Chat System** [SSE, Portable History, Group Chat, Incremental Updates & Session Control](https://github.com/ChungLimLee/SoChat)
+### [**Web Chat System** - SSE, Portable History, Group Chat, Incremental Updates & Session Control](https://github.com/ChungLimLee/SoChat)
 
 **Overview:**
 A secure, real-time web chat system built from scratch using PHP, JavaScript, HTML, and MySQL. Designed to demonstrate advanced features that typical frameworks don’t provide by default.
