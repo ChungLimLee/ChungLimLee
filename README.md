@@ -2,7 +2,7 @@
 
 I'm a self-taught developer who builds technically deep, performance-focused JavaScript applications.  
 I care about how things actually work — from memory efficiency to input latency to browser quirks — and I build from scratch when existing tools don’t cut it.
-I am the founder and maintainer of [Savvy Open](https://savvyopen.com)
+I am the founder and maintainer of Savvy Open (savvyopen.com).
 
 ---
 
