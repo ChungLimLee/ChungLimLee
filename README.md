@@ -19,6 +19,7 @@ A secure, real-time web chat system built from scratch using PHP, JavaScript, HT
 * **Single-session enforcement:** Automatically disconnects older connections when a user logs in elsewhere.
 * **Group chat support:** Users can create and join group chats.
 * **Security-focused:** Secure session management, password hashing (client + server), and SQL injection protection.
+* **Multi-Factor Authentication (MFA)**: TOTP (works with all standard authenticators)
 
 **Highlights:**
 
