@@ -6,7 +6,7 @@ I am the founder and maintainer of Savvy Open (savvyopen.com).
 
 ---
 
-### [**SO Chat** – SSE, Portable History, Group Chat, Incremental Updates & Session Control](https://github.com/ChungLimLee/SoChat)
+### [**SO Chat** – SSE, MFA, Portable History, Group Chat, Incremental Updates & Session Control](https://github.com/ChungLimLee/SoChat)
 
 **Overview:**
 A secure, real-time web chat system built from scratch using PHP, JavaScript, HTML, and MySQL. Designed to demonstrate advanced features that typical frameworks don’t provide by default.
