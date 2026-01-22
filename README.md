@@ -6,7 +6,7 @@ I am the founder and maintainer of **Savvy Open** (savvyopen.com).
 
 ---
 
-### [**SO Chat** – SSE, MFA, Portable History, Group Chat, Incremental Updates & Session Control](https://github.com/ChungLimLee/SoChat)
+### [**SO ChatX** – SSE, MFA, Portable History, Group Chat, Incremental Updates & Session Control](https://github.com/ChungLimLee/SoChat)
 
 **Overview:**
 A secure, real-time web chat system built from scratch using PHP, JavaScript, HTML, and MySQL. Designed to demonstrate advanced features that typical frameworks don’t provide by default.
@@ -29,7 +29,7 @@ A secure, real-time web chat system built from scratch using PHP, JavaScript, HT
 
 ---
 
-## 🚀 [SoGloper 0.8.0-alpha](https://github.com/ChungLimLee/so-gloper-react)
+## 🚀 [SO Gloper](https://github.com/ChungLimLee/so-gloper-react)
 
 A **unified React library** for state, logic, and dataflow — all in one, with minimal boilerplate.
 
