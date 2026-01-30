@@ -9,16 +9,16 @@ I am the founder and maintainer of **Savvy Open** (savvyopen.com).
 
 ### [SO ChatX](https://github.com/ChungLimLee/SoChatX)
 
-A **privacy-first** real-time messaging system built from scratch using **vanilla web technologies**. Designed for self-hosted deployments, strong security, and efficient real-time communication.
+A **privacy-first** real-time chat system built from scratch using **vanilla web technologies**. Designed for self-hosted deployments, strong security, and efficient real-time communication.
 
 ### **Highlights**
 
-* Secure login with MFA
+* Secure login with **MFA**
 * Real-time messaging
 * 1:1 and group chat support
-* Efficent history management
-* Robust session control
-* Optimized for low-resource hosting
+* Efficent **history management**
+* Robust **session control**
+* Optimized for **low-resource hosting**
 * Server-side rate limiters
 
 ---
