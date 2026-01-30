@@ -19,6 +19,7 @@ A **privacy-first** real-time messaging system built from scratch using **vanill
 * Efficent history management
 * Robust session control
 * Optimized for low-resource hosting
+* Server-side rate limiters
 
 ---
 
