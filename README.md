@@ -9,7 +9,7 @@ I am the founder and maintainer of **Savvy Open** (savvyopen.com).
 
 ### [SO ChatX](https://github.com/ChungLimLee/SoChatX)
 
-A privacy-first real-time chat system built from scratch using vanilla web technologies. Designed for self-hosted deployments, strong security, and efficient real-time communication.
+A **privacy-first** real-time messaging system built from scratch using **vanilla web technologies**. Designed for self-hosted deployments, strong security, and efficient real-time communication.
 
 ### **Highlights**
 
@@ -24,18 +24,19 @@ A privacy-first real-time chat system built from scratch using vanilla web techn
 
 ## 🚀 [SO Gloper](https://github.com/ChungLimLee/so-gloper-react)
 
-A **unified React library** for state, logic, and dataflow — all in one, with minimal boilerplate.
+A **unified React library** for state, logic, and dataflow — **all in one**, with minimal boilerplate.
 
 **Why it’s unique:**
 
-* **Dual Modes:** Relax (simple) & Control (advanced, IDE-friendly)
+* **Dual Modes:** Relax (simple) & Control (advanced, **maximum IDE support**)
 * **Dynamic State Creation:** `createGloper` for programmatic, flexible state
 * **Uniform Namespaces** with conflict detection
 * **Built-in Persistence:** IndexedDB & LocalStorage
 * **Lazy Loading:** initialize heavy states only on first use
 * **Auto Immutable Updates** & React 18+ concurrency support
+* **Advanced State management:** Fine-grained controls (upcoming)
 
-Build scalable, maintainable React apps faster — without juggling multiple libraries.
+Build scalable, maintainable React apps faster — **without juggling multiple libraries**.
 
 ---
 
